@@ -1,6 +1,6 @@
 {
    "title":"My Parents Sold me into a Happy Family",
-   "description":"A story of a young man changing a girls life",
+   "description":"A story of a young man changing a girl's life.",
    "artist":"Hachiya Kujira",
    "author":"Hachiya Kujira",
    "chapters":{
@@ -10,7 +10,7 @@
          "groups":{
             "ChocoChocoTL":"/proxy/api/imgur/chapter/ybTjW5g/"
          },
-         "last_updated":"1616368746"
+         "last_updated":"1623727461"
       },
       "2":{
          "title":"Chapter 2",
@@ -18,7 +18,7 @@
          "groups":{
             "ChocoChocoTL":"/proxy/api/imgur/chapter/Y0iOuoG/"
          },
-         "last_updated":"1616368746"
+         "last_updated":"1624238515"
       }
    }
 }
