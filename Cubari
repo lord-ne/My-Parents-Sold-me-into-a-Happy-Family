@@ -11,6 +11,14 @@
             "ChocoChocoTL":"/proxy/api/imgur/chapter/ybTjW5g/"
          },
          "last_updated":"1616368746"
+      },
+      "2":{
+         "title":"Chapter 2",
+         "volume":"1",
+         "groups":{
+            "ChocoChocoTL":"/proxy/api/imgur/chapter/Y0iOuoG/"
+         },
+         "last_updated":"1616368746"
       }
    }
 }
